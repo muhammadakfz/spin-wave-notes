@@ -1,0 +1,21 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LaTeX build products
+*.aux
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Regenerable large numerical exports
+results/generated/

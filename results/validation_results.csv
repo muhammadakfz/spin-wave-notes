@@ -1,0 +1,14 @@
+test,status,value
+nearest-neighbor ferromagnet,PASS,0
+nearest-neighbor antiferromagnet,PASS,3.12918094214e-14
+J1-J2 spiral,PASS,0
+phase boundary |J1/(4J2)|=1,PASS,0
+A/B equals compact J(k),PASS,3.58948981649e-14
+BdG Hermiticity,PASS,0
+BdG residual,PASS,5.4477270506e-16
+imaginary energy,PASS,9.58655357556e-13
+paraunitary error,PASS,2.09800101082e-13
+periodicity,PASS,1.53349555276e-14
+Gaussian integral,PASS,2.22044604925e-16
+spectral tensor Hermiticity,PASS,9.48740892154e-32
+FM one-magnon transverse sum rule,PASS,2.22044604925e-16
